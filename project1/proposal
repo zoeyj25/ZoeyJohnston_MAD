@@ -1,0 +1,9 @@
+For my project one I want to make an app that is a tutorial for double exposures.
+I make double exposures a lot and really enjoy them and people often ask me to teach them how to make them.
+I am thinking the app could have two parts like one part that you could see already make double exposures and
+get an idea for what is possible and then a category that walks one through how to do it with photos to help.
+It would be cool if I could have a third category on importing a photo and doing a basic one in the app, I
+have written a code in matlab once that did this but I think it could just be too much work for this time
+to also try implement into the app. The main part of my app would really be the tutorial and helping teach
+people how to do it. Another way I could do it is have some preset images in the app and have the user pick
+any two and then have it show an image from the two they picked. 
